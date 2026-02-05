@@ -1,4 +1,4 @@
-# CC 103 – Data Structures and Algorithms Repository
+# CC 103 – Data Structures and Algorithms 
 
 This repository contains my academic work for **CC 103: Data Structures and Algorithms**.  
 It serves as a personal learning archive that tracks my progress through coding exercises, practice problems, and algorithm implementations completed throughout the course.
