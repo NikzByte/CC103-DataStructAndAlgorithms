@@ -1,5 +1,17 @@
+/* 
+Write a program that has a structure Student: 
+Structure - Student:
+Members:
+o char name[50]
+o int rollNumber
+o int marks[5]
+o int totalMarks
+In the main function, create a Student struct, and ask for the name, rollNumber and 5 marks
+inputs, and then assign the inputs to the members of the created struct. Print the members of the
+struct by accessing them including the totalMarks detail by getting the sum of the marks. 
+*/
+
 #include <iostream>
-#include <cstring>
 using namespace std;
 
  struct STUDENT {
@@ -36,3 +48,4 @@ int main() {
 
     return 0;
 }
+
